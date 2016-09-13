@@ -1,4 +1,4 @@
-import json, pandas
+# import json, pandas
 def write_csv():
 	with open('untitled.json', 'r') as outf:
 		j = json.load(outf) 
